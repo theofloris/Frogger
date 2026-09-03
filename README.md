@@ -166,7 +166,7 @@ make clean
 
 ## Credits
 
-Developed by **Andrea Aresu** and **Theo F.** as a university project.
+Developed by **Andrea Aresu** and **Theo Floris** as a university project.
 Soundtrack: *CALMAN 160* (GTA IV).
 
 ## License
