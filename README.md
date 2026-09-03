@@ -127,7 +127,7 @@ Clone and enter the repository:
 
 ```bash
 git clone https://github.com/theofloris/Frogger.git
-cd frogger-game
+cd Frogger
 ```
 
 ### Multi-process version
