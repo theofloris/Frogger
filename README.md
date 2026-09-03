@@ -126,7 +126,7 @@ sudo apt-get install build-essential libncurses5-dev libncursesw5-dev \
 Clone and enter the repository:
 
 ```bash
-git clone https://github.com/AndreaAresu/frogger-game.git
+git clone https://github.com/theofloris/Frogger.git
 cd frogger-game
 ```
 
